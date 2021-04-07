@@ -1,1 +1,1 @@
-# DBProjectCinema
+# Microsoft SQL Server Project Cinema Database
